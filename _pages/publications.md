@@ -24,4 +24,4 @@ author_profile: true
 # Journals
 Haofei Song, **Xintian Mao**, Jing Yu, Qingli Li, Yan Wang. I^3Net: Inter-Intra-slice Interpolation Network for Medical Slice Synthesis. IEEE Trans. Medical Imaging, 2024. [[PDF](https://ieeexplore.ieee.org/abstract/document/10508991/)] [[Code](https://github.com/DeepMed-Lab-ECNU/Medical-Image-Reconstruction)]
 
-Jiansheng Wang, **Xintian Mao**, Yan Wang, Xiang Tao, Junhao Chu, Qingli Li. Bibliometric analysis of the current status and trends on medical hyperspectral imaging. Frontiers in Medicine, 2023. [[PDF](https://www.sciencedirect.com/science/article/pii/S0030399223002244)]
+Jiansheng Wang, **Xintian Mao**, Yan Wang, Xiang Tao, Junhao Chu, Qingli Li. Bibliometric analysis of the current status and trends on medical hyperspectral imaging. Optics & Laser Technology, 2023. [[PDF](https://www.sciencedirect.com/science/article/pii/S0030399223002244)]
