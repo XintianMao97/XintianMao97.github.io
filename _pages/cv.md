@@ -58,7 +58,14 @@ Teaching
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
+
+Academic Service
 ======
-* Currently signed in to 43 different slack teams
+* Journal Reviewer
+  ======
+  * IEEE Transactions on Image Processing
+======
+* Conference Reviewer
+  ======
+  * ACM MM, PRCV
+
