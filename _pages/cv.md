@@ -64,7 +64,7 @@ Academic Service
 * Journal Reviewer
   ======
   * IEEE Transactions on Image Processing
-======
+
 * Conference Reviewer
   ======
   * ACM MM, PRCV
