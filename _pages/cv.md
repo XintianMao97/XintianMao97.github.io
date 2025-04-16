@@ -28,5 +28,5 @@ Academic Service
 
 * Conference Reviewer
   ======
-  * ACM MM, PRCV
+  * NIPS, ACM MM, PRCV
 
